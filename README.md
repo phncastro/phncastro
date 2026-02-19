@@ -6,7 +6,9 @@
 
 ###
 
-<img align="left" height="182" src="https://imgflip.com/i/akij77"  />
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8be86602-4345-443c-a7da-051009689365" width="250px" />
+</div>
 
 ###
 

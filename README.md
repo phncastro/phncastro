@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 

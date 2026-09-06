@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estou aprendendo python<br>🎯 Stack: Python | FastAPI | PostgreSQL | SQLalchemy | SQL | sqlite<br>🎲 Fato curioso: Apaixonado por tecnologia desde criança</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente estou aprendendo python<br>🎯 Stack: Python | FastAPI | Django | PostgreSQL <br>🎲 Fato curioso: Apaixonado por tecnologia desde criança</p>
 
 ###
 
